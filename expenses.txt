@@ -1,0 +1,7 @@
+food,450
+taxi,300
+food,700
+games,1200
+taxi,250
+food,abc
+taxi
